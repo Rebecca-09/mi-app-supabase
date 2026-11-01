@@ -13,5 +13,9 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.118.0",
     "tslib": "^2.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nafvtdwbchmrdyrzijme.supabase.co"
   }
 }
